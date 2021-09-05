@@ -1,0 +1,22 @@
+{
+	"name": "beatsaberstats",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"build": "tsc -p ."
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"adm-zip": "^0.5.5",
+		"beatsaver-api": "^2.0.0",
+		"canvas": "^2.8.0",
+		"got": "^11.8.2"
+	},
+	"devDependencies": {
+		"@types/node": "^16.7.10",
+		"ts-node": "^10.2.1",
+		"typescript": "^4.4.2"
+	}
+}
