@@ -1,0 +1,29 @@
+Most Common Note Positions
+    Total Notes: 0
+.-----.-----.-----.-----.
+| 0-2 | 1-2 | 2-2 | 3-2 |
+:-----+-----+-----+-----:
+| 0-1 | 1-1 | 2-1 | 3-1 |
+:-----+-----+-----+-----:
+| 0-0 | 1-0 | 2-0 | 3-0 |
+'-----'-----'-----'-----'
+
+Most Common Bomb Positions
+    Total Bombs: 0
+.-----.-----.-----.-----.
+| 0-2 | 1-2 | 2-2 | 3-2 |
+:-----+-----+-----+-----:
+| 0-1 | 1-1 | 2-1 | 3-1 |
+:-----+-----+-----+-----:
+| 0-0 | 1-0 | 2-0 | 3-0 |
+'-----'-----'-----'-----'
+
+% of Duck Walls
+    Total Walls: 0
+    Total Duck Walls: 0
+    % Of Duck Walls: 0
+
+Duration
+    Average Duration: 0:00
+    Total Duration: 0:00
+    Longest Map: [hash]

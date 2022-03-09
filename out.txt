@@ -1,0 +1,29 @@
+Most Common Note Positions
+    Total Notes: 1346928
+.-----.-----.-----.-----.
+| 3   | 4   | 4   | 3   |
+:-----+-----+-----+-----:
+| 10  | 1   | 1   | 10  |
+:-----+-----+-----+-----:
+| 9   | 23  | 23  | 9   |
+'-----'-----'-----'-----'
+
+Most Common Bomb Positions
+    Total Bombs: 46739
+.-----.-----.-----.-----.
+| 4   | 1   | 1   | 4   |
+:-----+-----+-----+-----:
+| 4   | 0   | 0   | 4   |
+:-----+-----+-----+-----:
+| 7   | 5   | 5   | 7   |
+'-----'-----'-----'-----'
+
+% of Duck Walls
+    Total Walls: 80224
+    Total Duck Walls: 601
+    % Of Duck Walls: 1
+
+Duration
+    Average Duration: 03:04
+    Total Duration: 194748
+    Longest Map: 2f1fe6e6d21a6839adec238c321d545d7ee07ad3
